@@ -1,0 +1,14 @@
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\bin\Debug\net7.0\Lesson2_16.exe
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\bin\Debug\net7.0\Lesson2_16.deps.json
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\bin\Debug\net7.0\Lesson2_16.runtimeconfig.json
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\bin\Debug\net7.0\Lesson2_16.dll
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\bin\Debug\net7.0\Lesson2_16.pdb
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.AssemblyInfoInputs.cache
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.AssemblyInfo.cs
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.csproj.CoreCompileInputs.cache
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.dll
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\refint\Lesson2_16.dll
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.pdb
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\Lesson2_16.genruntimeconfig.cache
+C:\Костылев\Учеба\Bootcamp_Progr\Butkemp_Progr\Lesson2_16\obj\Debug\net7.0\ref\Lesson2_16.dll
